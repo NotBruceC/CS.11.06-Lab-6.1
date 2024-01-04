@@ -117,7 +117,7 @@ public class StockMarket {
 
 
 
-    public class StockCallMethods {
+    public class StockCallMethods  {
         public static void callEliLilly() {
             int CurrentBalance = Portfolio();
             int sharesOwnedLLY = 0;
